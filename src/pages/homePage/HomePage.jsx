@@ -92,7 +92,7 @@ export const HomePage = () => (
           Gestiona tus finanzas con tecnología de vanguardia y seguridad total.
         </p>
         <a
-          href="/dashboard"
+          href="/auth/login"
           style={{
             display: "inline-block",
             padding: "0.9em 2.7em",
